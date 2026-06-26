@@ -1,4 +1,4 @@
-package com.example.tnpsc_nova_ai_android
+package `in`.tnpscnovaai.app
 
 import io.flutter.embedding.android.FlutterActivity
 
